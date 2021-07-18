@@ -1,4 +1,4 @@
-# Predicting Continuous Target Variable with Regression Analysis
+# Predicting with Regression Analysis
 ---
 <img src="Images/wallpaper.png"/>
 
